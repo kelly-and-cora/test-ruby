@@ -7,3 +7,6 @@ def hello(a)
 end
 
 x = 2
+y = 4
+
+puts x
